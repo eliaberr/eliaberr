@@ -2,7 +2,7 @@
 
 ### About me
 
-I'm Eliabe. I study at Fatec Itu, where I am in my 4th semester of college. Additionally, I study Web Development independently. I am looking for an internship in web development.
+I'm Eliabe. I study at Fatec Itu, where I am in my 5th semester of college. Additionally, I study Web Development independently. I am looking for an internship in web development.
 <br>
 <br>
 <hr>
