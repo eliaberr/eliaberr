@@ -1,7 +1,4 @@
-## Olá, sou o Eliabe Rodrigues. 👨🏻‍💻
-<br>
-
-## DESENVOLVEDOR FULL-STACK
+## Olá! Sou Eliabe Rodrigues, desenvolvedor full-stack
 
 <br>
 Sou Eliabe, desenvolvedor full-stack com experiência em projetos freelancer e pessoais. Já atuei com desenvolvimento de aplicações web, trabalhando tanto no front-end quanto no back-end, sempre buscando entregar soluções completas, funcionais e bem estruturadas. Tenho vivência prática no desenvolvimento de sistemas e estou em constante evolução, aprimorando minhas habilidades para oferecer resultados cada vez melhores.
