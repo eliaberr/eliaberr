@@ -1,14 +1,10 @@
-## Hello! I'm Eliabe Rodrigues 👨🏻‍💻
+## Olá Sou o Eliabe Rodrigues 👨🏻‍💻
+## DESENVOLVEDOR FULL-STACK
 
-### About me
-
-I'm Eliabe. I study at Fatec Itu, where I am in my 5th semester of college. Additionally, I study Web Development independently. I am looking for an internship in web development.
+Sou Eliabe, desenvolvedor full-stack com experiência em projetos freelancer e pessoais. Já atuei com desenvolvimento de aplicações web, trabalhando tanto no front-end quanto no back-end, sempre buscando entregar soluções completas, funcionais e bem estruturadas. Tenho vivência prática no desenvolvimento de sistemas e estou em constante evolução, aprimorando minhas habilidades para oferecer resultados cada vez melhores.
 <br>
 <br>
 <hr>
-
-My Social Media
-<br>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eliabe-rodrigues-8909a320b/)
 
